@@ -1,0 +1,6 @@
+{
+    "initial_amount": 1000,
+    "sources": ["binance"],
+    "top": 20,
+    "russell_percentage": 0.1
+}

@@ -1,0 +1,20 @@
+{
+  "name": "index-tracking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "as-table": "^1.0.31",
+    "ccxt": "^1.10.950",
+    "commander": "^2.13.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^1.7.3",
+    "ololog": "^1.1.84",
+    "simple-array-diff": "^1.1.0"
+  }
+}
